@@ -1,2 +1,0 @@
-# misecoco-release
-release misecoco

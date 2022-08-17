@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmisecoco"]=self["webpackChunkmisecoco"]||[]).push([[493],{7493:function(c,e,n){n.r(e),n.d(e,{default:function(){return d}});var s=n(1324);const t={class:"layout"};function a(c,e,n,a,o,r){return(0,s.wg)(),(0,s.iD)("div",t)}var o={},r=n(6735);const u=(0,r.Z)(o,[["render",a],["__scopeId","data-v-1cd3d3ae"]]);var d=u}}]);
+//# sourceMappingURL=493.cc015850.js.map
